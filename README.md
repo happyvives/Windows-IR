@@ -5,7 +5,7 @@
 # How to use this Command in Windows
 Run this PS with Admin rights from a windows workstation
 
-# How to use this Command in Crodstrike Admin Console
+# How to use this Command in Crowdstrike Admin Console
 Add this script to custom scripts in Cwordstrike admin console.
 Run from RTR Console = runscript -CloudFile="Windows-IR-Event-Collection" -Timeout="300"
 
