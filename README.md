@@ -10,19 +10,9 @@ Add this script to custom scripts in Cwordstrike admin console
 Run from RTR Console = runscript -CloudFile="Windows-IR-Event-Collection" -Timeout="300"
 
 # Logs collected 
-Events Collected
-Local user accounts
-Running Process with user, Location, outbound connections
-Client DNS Cache
-Windows Events- System, Security, Application
-Installed Software
-Temp and Downloads folder with executables
-Chrome and Edge Browser History( getting some data, still working on tweaking this)
-Scheduled Task
-Run Once registry content
-Services with AutoMode
-Local Firewall Rules and Connections
-Command History
+Events Collected, Local user accounts, Running Process with user, Location, outbound connections, Client DNS Cache,Windows Events- System, Security, Application
+Installed Software, Temp and Downloads folder with executables, Chrome and Edge Browser History( getting some data, still working on tweaking this)
+,Scheduled Task, Run Once registry content, Services with AutoMode, Local Firewall Rules and Connections, Command History
 More to be added...
 
 
