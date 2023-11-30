@@ -6,7 +6,7 @@
 Run this PS with Admin rights from a windows workstation
 
 # How to use this Command in Crodstrike Admin Console
-Add this script to custom scripts in Cwordstrike admin console 
+Add this script to custom scripts in Cwordstrike admin console.
 Run from RTR Console = runscript -CloudFile="Windows-IR-Event-Collection" -Timeout="300"
 
 # Logs collected 
@@ -14,5 +14,10 @@ Events Collected, Local user accounts, Running Process with user, Location, outb
 Installed Software, Temp and Downloads folder with executables, Chrome and Edge Browser History( getting some data, still working on tweaking this)
 ,Scheduled Task, Run Once registry content, Services with AutoMode, Local Firewall Rules and Connections, Command History
 More to be added...
+
+# Log Creation Directory
+This scripts automates the log creation by creating a dicrectoty in the root of c:\ called "001-2023-event-log-collection".
+
+
 
 
