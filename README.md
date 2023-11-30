@@ -15,8 +15,8 @@ Installed Software, Temp and Downloads folder with executables, Chrome and Edge 
 ,Scheduled Task, Run Once registry content, Services with AutoMode, Local Firewall Rules and Connections, Command History
 More to be added...
 
-# Log Creation Directory
-This scripts automates the log creation by creating a dicrectoty in the root of c:\ called "001-2023-event-log-collection".
+# Location of Logs collected
+This script automates the log creation by creating a dicrectoty in the root of c:\ --> "001-2023-event-log-collection".
 
 
 
