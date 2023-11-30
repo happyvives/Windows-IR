@@ -1,11 +1,13 @@
-# Windows-IR
-Repo for Windows PS scripts to assist in Incident response log collection automation 
 
-# Powershell commands
- This Prowershell is a collection of different commands that allow you to collect useful information whne performing an investaigation to and event on a windows PC.
-
-# Usage of this PS
+# Purpose of this Powershell Script
  This Powershell can be used on a windows machine to collect the below information and can be used on Crowdstrike RTR to collect logs. This process is automated and zips the files into 1 single folder.
+
+# How to use this Command
+Run this PS with Admin rights from a windows workstation
+Add this script to custom scripts in Cwordstrike admin console 
+Run from RTR Console = runscript -CloudFile="Windows-IR-Event-Collection" -Timeout="300"
+
+# Logs collected 
 Events Collected
 Local user accounts
 Running Process with user, Location, outbound connections
