@@ -26,7 +26,7 @@ This script automates the log creation by creating a dicrectoty in the root of c
 
 # Notice
 As always test this on a non-critical system. This is a simple powershell that collects logs and places them in the root of C:, pleae make sure you have enough space. The log collection is small, about 5 megs. 
-This scripts collects windows system, security and application events and is limited to Max 600 events.This can be modified to your needs. 
+This scripts collects windows system, security and application events, DNS, Registry, Running Process.. etc and more.  
 
 
 
