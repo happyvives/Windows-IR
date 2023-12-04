@@ -10,6 +10,10 @@ Add this script to custom scripts in Cwordstrike Admin console.
 Run from RTR Console = 
 runscript -CloudFile="Windows-IR-Event-Collection" -Timeout="300"
 
+# Upload logs from RTR session to Crowdstrike Cloud and Download
+get /"filename"
+CLick on download file and extract 
+
 # Logs collected 
 Events Collected from this script are:
 Local user accounts, Running Process with user, Location, outbound connections, Client DNS Cache,Windows Events- System, Security, Application
