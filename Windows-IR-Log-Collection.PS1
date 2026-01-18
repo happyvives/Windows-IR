@@ -1,5 +1,5 @@
 ##############-----------Create Directory to place collected files##############-----------
-mkdir c:\001-2023-event-log-collection
+mkdir c:\001-2026-event-log-collection
 
 ##############-----------Sleep for 5 seconds before tunning scripts##############-----------
 Start-Sleep -Seconds 5
